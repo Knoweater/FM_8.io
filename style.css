@@ -20,6 +20,7 @@ body {
 }
 
 .grand-container {
+    margin: 0 auto;
     position: relative;
 }
 
@@ -29,7 +30,8 @@ body {
     font-family: "Manrope", sans-serif;
     background-color: white;
     border-radius: 0.6rem;
-    overflow: hidden;    
+    overflow: hidden;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
 }
 
 .block-wrapper {
